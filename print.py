@@ -7,3 +7,6 @@ else:
 def method(n):
         print(n,"this is a functio ")
 method(8)
+def method2(s):
+    print(s,"is my lucky number")
+method2(3)
